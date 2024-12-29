@@ -17,7 +17,7 @@ main .intro{
     width: 100%;
     height: 100vh;
     max-height: 1000px;
-    background-image: url(/img/angkorWat.jpg);
+    background: url(/img/angkorWat.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
